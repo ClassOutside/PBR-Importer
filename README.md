@@ -20,3 +20,6 @@ Blender add-on to assist with importing PBRs
 10. Select the option 'Import PBRs'
 
 After a moment the textures should be loaded and connected to the principled BSDF shader.
+
+# Related Video
+The following video was made to express the intended use and benefit of this add-on: https://youtu.be/veDQvkhjJ4U
